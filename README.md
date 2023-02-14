@@ -1,2 +1,6 @@
 # Learn-ShellScripting
 Learn Shell Scripting 
+
+...
+1. adding lines for second commit.
+...
